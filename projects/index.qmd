@@ -1,0 +1,14 @@
+---
+title: "Projects"
+listing:
+  contents: .
+  sort: "date desc"
+  type: grid
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  exclude:
+    - file: index.qmd
+---
+
+Here's a collection of my professional work and personal projects.

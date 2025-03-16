@@ -1,1 +1,38 @@
-/* css styles */
+/* Base styles */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+  }
+  
+  /* Header styling */
+  .navbar {
+    padding: 1rem 2rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  /* Project cards */
+  .quarto-grid-item {
+    border-radius: 8px;
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border: 1px solid #eaeaea;
+  }
+  
+  .quarto-grid-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+  }
+  
+  /* Images */
+  .quarto-grid-item img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  /* Footer */
+  .footer {
+    margin-top: 3rem;
+    padding: 1rem 0;
+    background-color: #f8f9fa;
+  }

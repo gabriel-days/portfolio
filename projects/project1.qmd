@@ -1,0 +1,39 @@
+---
+title: "Project Name"
+description: "Brief project description"
+date: "2025-03-01"
+categories: [Category1, Category2]
+image: "../images/project1-thumbnail.jpg"
+---
+
+## Overview
+
+[1-2 paragraphs describing the project, its purpose, and its significance]
+
+## Challenge
+
+[Describe the problem or challenge that this project addressed]
+
+## Approach
+
+[Explain your methodology, process, and key decisions]
+
+## Tools & Technologies
+
+- Technology 1
+- Technology 2
+- Technology 3
+
+## Results
+
+[Describe the outcomes, impact, and any metrics/achievements]
+
+## Gallery
+
+![Project Image 1](../images/project1-1.jpg)
+
+![Project Image 2](../images/project1-2.jpg)
+
+## Reflections
+
+[Optional: Share what you learned or how you might approach this differently]

@@ -1,7 +1,24 @@
----
-title: "portfolio"
----
+project:
+  type: website
+  output-dir: _site
 
-This is a Quarto website.
+website:
+  title: "Your Name | Portfolio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects/index.qmd
+        text: Projects
+      - href: blog/index.qmd
+        text: Blog
+      - href: about/index.qmd
+        text: About
+  page-footer:
+    center: "© 2025 Your Name. All rights reserved."
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+format:
+  html:
+    theme: cosmo  # You can change this to other themes like lux, zephyr, etc.
+    css: styles.css
+    toc: true

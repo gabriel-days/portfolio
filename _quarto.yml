@@ -1,21 +1,24 @@
 project:
   type: website
+  output-dir: _site
 
 website:
-  title: "portfolio"
+  title: "Your Name | Portfolio"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: projects/index.qmd
+        text: Projects
+      - href: blog/index.qmd
+        text: Blog
+      - href: about/index.qmd
+        text: About
+  page-footer:
+    center: "© 2025 Your Name. All rights reserved."
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo  # You can change this to other themes like lux, zephyr, etc.
     css: styles.css
     toc: true
-
-
-

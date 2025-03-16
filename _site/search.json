@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "portfolio",
+    "title": "Your Name | Portfolio",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "project: type: website output-dir: _site\nwebsite: title: “Your Name | Portfolio” navbar: left: - href: index.qmd text: Home - href: projects/index.qmd text: Projects - href: blog/index.qmd text: Blog - href: about/index.qmd text: About page-footer: center: “© 2025 Your Name. All rights reserved.”\nformat: html: theme: cosmo # You can change this to other themes like lux, zephyr, etc. css: styles.css toc: true"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,173 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "project/index.html",
+    "href": "project/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Here’s a collection of my professional work and personal projects.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nProject Name\n\n\n\nCategory1\n\n\nCategory2\n\n\n\nBrief project description\n\n\n\n\n\n\nMar 1, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "project/project1.html",
+    "href": "project/project1.html",
+    "title": "Project Name",
+    "section": "",
+    "text": "[1-2 paragraphs describing the project, its purpose, and its significance]"
+  },
+  {
+    "objectID": "project/project1.html#overview",
+    "href": "project/project1.html#overview",
+    "title": "Project Name",
+    "section": "",
+    "text": "[1-2 paragraphs describing the project, its purpose, and its significance]"
+  },
+  {
+    "objectID": "project/project1.html#challenge",
+    "href": "project/project1.html#challenge",
+    "title": "Project Name",
+    "section": "Challenge",
+    "text": "Challenge\n[Describe the problem or challenge that this project addressed]"
+  },
+  {
+    "objectID": "project/project1.html#approach",
+    "href": "project/project1.html#approach",
+    "title": "Project Name",
+    "section": "Approach",
+    "text": "Approach\n[Explain your methodology, process, and key decisions]"
+  },
+  {
+    "objectID": "project/project1.html#tools-technologies",
+    "href": "project/project1.html#tools-technologies",
+    "title": "Project Name",
+    "section": "Tools & Technologies",
+    "text": "Tools & Technologies\n\nTechnology 1\nTechnology 2\nTechnology 3"
+  },
+  {
+    "objectID": "project/project1.html#results",
+    "href": "project/project1.html#results",
+    "title": "Project Name",
+    "section": "Results",
+    "text": "Results\n[Describe the outcomes, impact, and any metrics/achievements]"
+  },
+  {
+    "objectID": "project/project1.html#gallery",
+    "href": "project/project1.html#gallery",
+    "title": "Project Name",
+    "section": "Gallery",
+    "text": "Gallery\n\n\n\nProject Image 1\n\n\n\n\n\nProject Image 2"
+  },
+  {
+    "objectID": "project/project1.html#reflections",
+    "href": "project/project1.html#reflections",
+    "title": "Project Name",
+    "section": "Reflections",
+    "text": "Reflections\n[Optional: Share what you learned or how you might approach this differently]"
+  },
+  {
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a [your profession] with [X years] of experience specializing in [your focus area]. My work involves [description of what you do and how you approach it]."
+  },
+  {
+    "objectID": "about/index.html#professional-background",
+    "href": "about/index.html#professional-background",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a [your profession] with [X years] of experience specializing in [your focus area]. My work involves [description of what you do and how you approach it]."
+  },
+  {
+    "objectID": "about/index.html#experience",
+    "href": "about/index.html#experience",
+    "title": "About Me",
+    "section": "Experience",
+    "text": "Experience\n\n[Current Job Title] | [Company] | [Dates]\n\nKey accomplishment\nKey accomplishment\nKey accomplishment\n\n\n\n[Previous Job Title] | [Company] | [Dates]\n\nKey accomplishment\nKey accomplishment\nKey accomplishment"
+  },
+  {
+    "objectID": "about/index.html#education",
+    "href": "about/index.html#education",
+    "title": "About Me",
+    "section": "Education",
+    "text": "Education\n\n[Degree] in [Field], [University], [Year]\n[Certification], [Issuing Organization], [Year]"
+  },
+  {
+    "objectID": "about/index.html#personal-interests",
+    "href": "about/index.html#personal-interests",
+    "title": "About Me",
+    "section": "Personal Interests",
+    "text": "Personal Interests\nWhen I’m not [professional activity], I enjoy [hobbies and interests]."
+  },
+  {
+    "objectID": "about/index.html#contact",
+    "href": "about/index.html#contact",
+    "title": "About Me",
+    "section": "Contact",
+    "text": "Contact\n\nEmail: your.email@example.com\nLinkedIn: Your Name\nGitHub: Your Username"
+  },
+  {
+    "objectID": "projects/project1.html",
+    "href": "projects/project1.html",
+    "title": "Project Name",
+    "section": "",
+    "text": "[1-2 paragraphs describing the project, its purpose, and its significance]"
+  },
+  {
+    "objectID": "projects/project1.html#overview",
+    "href": "projects/project1.html#overview",
+    "title": "Project Name",
+    "section": "",
+    "text": "[1-2 paragraphs describing the project, its purpose, and its significance]"
+  },
+  {
+    "objectID": "projects/project1.html#challenge",
+    "href": "projects/project1.html#challenge",
+    "title": "Project Name",
+    "section": "Challenge",
+    "text": "Challenge\n[Describe the problem or challenge that this project addressed]"
+  },
+  {
+    "objectID": "projects/project1.html#approach",
+    "href": "projects/project1.html#approach",
+    "title": "Project Name",
+    "section": "Approach",
+    "text": "Approach\n[Explain your methodology, process, and key decisions]"
+  },
+  {
+    "objectID": "projects/project1.html#tools-technologies",
+    "href": "projects/project1.html#tools-technologies",
+    "title": "Project Name",
+    "section": "Tools & Technologies",
+    "text": "Tools & Technologies\n\nTechnology 1\nTechnology 2\nTechnology 3"
+  },
+  {
+    "objectID": "projects/project1.html#results",
+    "href": "projects/project1.html#results",
+    "title": "Project Name",
+    "section": "Results",
+    "text": "Results\n[Describe the outcomes, impact, and any metrics/achievements]"
+  },
+  {
+    "objectID": "projects/project1.html#gallery",
+    "href": "projects/project1.html#gallery",
+    "title": "Project Name",
+    "section": "Gallery",
+    "text": "Gallery\n\n\n\nProject Image 1\n\n\n\n\n\nProject Image 2"
+  },
+  {
+    "objectID": "projects/project1.html#reflections",
+    "href": "projects/project1.html#reflections",
+    "title": "Project Name",
+    "section": "Reflections",
+    "text": "Reflections\n[Optional: Share what you learned or how you might approach this differently]"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Here’s a collection of my professional work and personal projects.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nProject Name\n\n\n\nCategory1\n\n\nCategory2\n\n\n\nBrief project description\n\n\n\n\n\n\nMar 1, 2025\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
