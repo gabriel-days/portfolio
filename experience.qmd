@@ -1,0 +1,39 @@
+---
+title: "Professional Experience"
+---
+
+## Current Position
+
+### Sales Engineer \| EBANX \| 2024-Present
+
+As a Sales Engineer at EBANX, I:
+
+-   Partner with Account Executives to provide technical expertise throughout the sales cycle
+-   Conduct discovery sessions to understand customer requirements and pain points
+-   Create and deliver tailored product demonstrations for prospects and customers
+-   Design solution architecture that aligns with customer business objectives
+-   Provide technical responses to RFPs and RFIs
+-   Support implementation planning and customer onboarding
+
+### Key Achievements
+
+-   WIP
+
+## Previous Experience
+
+### Financial Operations Analyst Jr \| EBANX \| 2023-2024
+
+-   Key responsibility
+-   WIP
+
+### Product Management Intern \| EBANX \| 2021-2022
+
+-   Key responsibility
+-   WIP
+-   Key achievement
+
+## Education & Certifications
+
+-   Bachelor in **Business Administration**, FAE Business School, 2026
+-   Bachelor in **Data Science**, FAE Business School, 2026
+-   **Mapping & Diagramming**, Miro, 20022

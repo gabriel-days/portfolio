@@ -1,0 +1,35 @@
+---
+title: "Gabriel Prado"
+subtitle: "Sales Engineer"
+---
+
+## Welcome to My Portfolio
+
+![](images/profile.jpeg){width="300"}
+
+I'm a Sales Engineer with expertise in the Payments Industry. I help organizations identify technical solutions that address their business challenges.
+
+### My Expertise
+
+-   **Technical Sales**: Translating complex technical concepts into business value
+-   **Product Demonstrations**: Creating tailored demonstrations that showcase solutions to specific customer problems
+-   **Solution Architecture**: Designing comprehensive technical solutions that meet customer requirements
+-   **Customer Relationship**: Building and maintaining trust with technical stakeholders
+
+### Recent Wins
+
+::::: grid
+::: g-col-6
+#### Aker Solutions
+
+Successfully helped the company to identify the root cause and propose solutions to the TurnOver problem
+:::
+
+::: g-col-6
+#### GhFly
+
+In a college project, we helped the company to identify threats and opportunities in the Brazilian North Region.
+:::
+:::::
+
+[View my experience →](experience.qmd)

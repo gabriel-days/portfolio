@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Gabriel | SE"
+  navbar:
+    logo: "images/logo.png"  # Optional: Add your own logo
+    left:
+      - href: index.qmd
+        text: Home
+      - href: experience.qmd
+        text: Experience
+      - href: solutions.qmd
+        text: Solutions
+      - href: about.qmd
+        text: About
+  page-footer:
+    center: "© 2025 gabriel Prado. All rights reserved."
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

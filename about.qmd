@@ -1,0 +1,29 @@
+---
+title: "About Me"
+---
+
+## Professional Background
+
+I am a Sales Engineer with 2 years of experience bridging the gap between technical solutions and business value. I specialize in [your specific area of focus, e.g., cloud solutions, SaaS platforms, cybersecurity, etc.].
+
+My technical background in the payments industry combined with my understanding of business objectives allows me to effectively translate complex technical concepts into tangible business benefits for customers.
+
+## My Approach
+
+I believe that successful technical sales requires:
+
+1. **Deep Understanding**: Taking the time to truly understand customer challenges
+2. **Tailored Solutions**: Designing solutions that specifically address those challenges
+3. **Clear Communication**: Explaining technical concepts in business terms
+4. **Partnership Mindset**: Working as a trusted advisor rather than just a vendor
+
+## Personal Interests
+
+When I'm not working with customers, I enjoy [hobbies and interests].
+
+## Contact Information
+
+I'm always open to connecting with professionals in the industry. Feel free to reach out:
+
+- Email: gabriel.diasprado2015@gmail.com
+- LinkedIn: [Your Name](https://linkedin.com/in/gabrieldp075)
